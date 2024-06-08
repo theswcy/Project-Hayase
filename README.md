@@ -7,10 +7,10 @@ The **Hayase Project** is nothing more and less than a powerful application for 
 
 ## Internal
 - Version: **Sharp 1.1** [ in testings ]
-- Language: **C#**
-- Framework: **Microsoft .NET 8.0**
-- IDE: **Microsoft Visual Studio Community 2022**.
-- API: **Discord API** with **DSharpPlus**.
+- Language: **[C#](https://learn.microsoft.com/dotnet/csharp/)**
+- Framework: **[Microsoft .NET 8.0](https://dotnet.microsoft.com/download/dotnet/8.0)**
+- IDE: **[Microsoft Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/community/)**.
+- API: **Discord API** with **[DSharpPlus](https://dsharpplus.github.io/DSharpPlus/)**.
 
 ## Commands and more infos
 The commands listed here are still in the testing phase and several failures may occur during use.
