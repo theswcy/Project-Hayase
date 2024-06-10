@@ -4,6 +4,7 @@ A simple and powerful application for Discord communities.
 ## About
 The **Hayase Project** is nothing more and less than a powerful application for **Discord communities**, acting with several functions, namely: **security, moderation, entertainment** and **tools**.
 - ⚠️ Currently, the project is **restricted** to me, only I develop the application.
+- 🪴 You can add the **limited** and **discontinued** version ( **Aura Gen1** ) to your Discord server by clicking **[here](https://discord.com/oauth2/authorize?client_id=889388725719683082)**.
 
 ## Internal
 - Version: **Sharp 1.1** [ in testings ]
