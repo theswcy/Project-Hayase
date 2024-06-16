@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Project_Hayase
 {
-    internal class index
+    internal class Index
     {
         private static DiscordClient Client { get; set; }
         private static CommandsNextExtension Commands { get; set; }
